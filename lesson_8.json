@@ -1,0 +1,42 @@
+[
+    {
+    "id": 32,
+    "name": "ando",
+    "score": [52, 33, 84],
+    "skill": [
+            {"area": "html", "level": 4},
+            {"area": "css", "level": 5},
+            {"area": "javascript", "level": 3}
+        ]
+    },
+    {
+        "id": 34,
+        "name": "sato",
+        "score": [80, 32, 38],
+        "skill": [
+            {"area": "html", "level": 4},
+            {"area": "css", "level": 4},
+            {"area": "javascript", "level": 4},
+            {"area": "php", "level": 2}
+        ]    
+    },
+    {
+        "id": 42,
+        "name": "kato",
+        "score": [91, 42, 33],
+        "skill": [
+            {"area": "html", "level": 4},
+            {"area": "css", "level": 5}
+        ]    
+    },
+    {
+        "id": 48,
+        "name": "goto",
+        "score": [95, 22],
+        "skill": [
+            {"area": "html", "level": 4},
+            {"area": "css", "level": 5},
+            {"area": "javascript", "level": 3}
+        ]    
+    }
+]
